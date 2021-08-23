@@ -322,7 +322,7 @@ if __name__ == '__main__':
 
     app = QApplication(sys.argv)
     calc = Calculator()
-   
+   # Put Name Theme you want in here
     apply_stylesheet(app, theme='dark_cyan.xml')
     calc.show()
     sys.exit(app.exec_())
