@@ -1,5 +1,5 @@
 # pyqt5_calculator
-Simple PyQt5_Calculator
+![Simple PyQt5_Calculator](https://github.com/jeevies/pyqt5_calculator/raw/main/Calculator.jpg)
 # More_Themes
 ```
 - 'dark_amber.xml'
